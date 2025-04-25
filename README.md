@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milad-noori&label=Profile%20views&color=0e75b6&style=flat" alt="milad-noori" /> </p>
 
-- 💻 I’m currently working on [car price-prediction](https://github.com/Milad-Noori/car_prediction)
-
 - 🌱 I’m currently learning **Machine-Learning and Deep-Learning**
 
 - 📘 You can see my information about ML &DL in Telegram Channel [Pythonclub](https://t.me/pythonc1ub)
