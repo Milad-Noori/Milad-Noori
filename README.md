@@ -12,6 +12,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Milad-Noori](https://github.com/Milad-Noori)
 
 - 📝 I regularly write articles about A review of ranking methods for semantic search in networks on [https://civilica.com/doc/2044019/](https://civilica.com/doc/2044019/)
+- and Review on Mouse Control Using Eye-Tracking: Integrating CNN and NLP for Intelligent Human-Computer Interaction on [https://civilica.com/doc/2238722/]
 
 - 💬 Ask me anything about **Data Science & Python & ML and DL**
 
