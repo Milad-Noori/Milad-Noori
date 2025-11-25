@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Milad Noori</h1>
+<h1 align="center">Milad Noori</h1>
 <h3 align="center">Skilled AI engineer from Iran, developing intelligent data-driven systems.</h3>
 
 <img align="right" alt="Milad-Noori" width = "300" src="https://media2.giphy.com/media/78XCFBGOlS6keY1Bil/200w.gif?cid=6c09b952v93wlzhsy3khijcjmkuku0msswrr00atnmnn8rne&ep=v1_gifs_search&rid=200w.gif">
