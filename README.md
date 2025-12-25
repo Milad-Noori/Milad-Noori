@@ -2,6 +2,9 @@
 <h3 align="center">
 AI Engineer | Machine Learning & Computer Vision Enthusiast
 </h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=milad-noori&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
 
 <p align="center">
 Developing intelligent, data-driven systems with a strong focus on Machine Learning, Deep Learning, and Robotics.
