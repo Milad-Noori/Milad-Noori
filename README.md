@@ -34,7 +34,8 @@ Developing intelligent, data-driven systems with a strong focus on Machine Learn
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=milad-noori&show_icons=true&theme=dracula&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=milad-noori&theme=dracula&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=milad-noori&show_icons=true&count_private=true" />
+
 </div>
 
 <div align="center">
