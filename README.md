@@ -68,8 +68,6 @@ Developing intelligent, data-driven systems with a strong focus on Machine Learn
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg"
-    alt="Pacman contribution graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=milad-noori&theme=dracula" />
+
 </picture>
