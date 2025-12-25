@@ -7,9 +7,6 @@ AI Engineer | Machine Learning & Computer Vision Enthusiast
 Developing intelligent, data-driven systems with a strong focus on Machine Learning, Deep Learning, and Robotics.
 </p>
 
-<img align="right" alt="Milad-Noori" width="280"
-src="https://media2.giphy.com/media/78XCFBGOlS6keY1Bil/200w.gif" />
-
 ---
 
 ## 🧠 Tech Stack
