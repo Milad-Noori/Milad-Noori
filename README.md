@@ -44,7 +44,10 @@ Developing intelligent, data-driven systems with a strong focus on Machine Learn
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=milad-noori&theme=dracula&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=milad-noori&theme=react-dark&hide_border=true&color=ff7518&line=ffffff&point=ffcc00" />
+</p>
+
 </p>
 
 
