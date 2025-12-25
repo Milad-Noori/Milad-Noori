@@ -43,7 +43,10 @@ Developing intelligent, data-driven systems with a strong focus on Machine Learn
 ## 🏆 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=milad-noori&theme=dracula&no-frame=true&margin-w=15&margin-h=15" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milad-noori&show_icons=true&locale=en&layout=compact" alt="milad-noori" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milad-noori&show_icons=true&locale=en" alt="milad-noori" /></p>
+
 
 </div>
 
