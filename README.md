@@ -1,7 +1,9 @@
 <h1 align="center">Milad Noori</h1>
+
 <h3 align="center">
 AI Engineer | Machine Learning & Computer Vision Enthusiast
 </h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=milad-noori&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
@@ -34,8 +36,7 @@ Developing intelligent, data-driven systems with a strong focus on Machine Learn
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=milad-noori&show_icons=true&theme=dracula&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=milad-noori&show_icons=true&count_private=true" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=milad-noori&theme=dracula&hide_border=true" height="160"/>
 </div>
 
 <div align="center">
@@ -44,12 +45,11 @@ Developing intelligent, data-driven systems with a strong focus on Machine Learn
 
 ---
 
+## 📈 Contribution Activity
 
-
-<div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milad-noori&show_icons=true&locale=en" alt="milad-noori" /></p>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=milad-noori&theme=dracula&hide_border=true" />
+</p>
 
 ---
 
@@ -69,10 +69,3 @@ Developing intelligent, data-driven systems with a strong focus on Machine Learn
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-
----
-
-<picture>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=milad-noori&theme=dracula" />
-
-</picture>
