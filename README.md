@@ -43,7 +43,8 @@ Developing intelligent, data-driven systems with a strong focus on Machine Learn
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=milad-noori&theme=dracula&row=1&column=6&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=milad-noori&theme=dracula&no-frame=true&margin-w=15&margin-h=15" />
+
 </div>
 
 ---
