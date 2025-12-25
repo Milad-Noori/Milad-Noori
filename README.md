@@ -27,16 +27,22 @@ Developing intelligent, data-driven systems with a strong focus on Machine Learn
 
 ---
 
+<!-- ====================== GitHub Stats ====================== -->
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=milad-noori&show_icons=true&theme=dracula&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=milad-noori&theme=dracula&hide_border=true" height="160"/>
+  <!-- GitHub Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=milad-noori&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="160" style="margin-right: 10px;" />
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=milad-noori&theme=dracula&hide_border=true" height="160" style="margin-left: 10px;" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milad-noori&layout=compact&theme=dracula&hide_border=true" height="140"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milad-noori&layout=compact&theme=dracula&hide_border=true" height="140" />
 </p>
+
 
 ---
 
