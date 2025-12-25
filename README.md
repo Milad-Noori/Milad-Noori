@@ -16,36 +16,31 @@ Developing intelligent, data-driven systems with a strong focus on Machine Learn
 
 ## 🧠 Tech Stack
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python" height="55" />
-  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=tensorflow" height="55" />
-  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=pytorch" height="55" />
-  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=opencv" height="55" />
-  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=sklearn" height="55" />
-  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="55" />
-</div>
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=milad-noori&show_icons=true&theme=dracula&hide_border=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=milad-noori&theme=dracula&hide_border=true" height="160"/>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milad-noori&layout=compact&theme=dracula&hide_border=true" height="140"/>
-</div>
+</p>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=milad-noori&theme=dracula&hide_border=true" />
