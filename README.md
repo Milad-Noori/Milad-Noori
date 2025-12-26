@@ -56,10 +56,6 @@ Developing intelligent, data-driven systems with a strong focus on Machine Learn
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Milad-Noori&theme=tokyonight" alt="Streak Stats" />
-</p>
-
 
 <p align="center">
   <!-- Top Languages -->
