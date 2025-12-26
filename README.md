@@ -28,36 +28,43 @@ Developing intelligent, data-driven systems with a strong focus on Machine Learn
 ---
 
 <!-- ====================== GitHub Stats ====================== -->
-## 📊 GitHub Stats
-
 <p align="center">
-  <!-- GitHub Main Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=milad-noori&show_icons=true&count_private=true&theme=radical" height="160" />
+  <img src="https://raw.githubusercontent.com/Milad-Noori/Milad-Noori/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=milad-noori&theme=dracula&hide_border=true" height="160" style="margin-left: 10px;" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Milad-Noori&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
+
+<p align="center">
+  <details>
+    <summary><b>📂 مشاهده جزئیات فعالیت‌ها (Details)</b></summary>
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api?username=Milad-Noori&show_icons=true&theme=tokyonight" alt="Milad's Stats" />
+  </details>
+</p>
+
+---
+
+### ☕ حمایت از من (Donations)
+اگر پروژه‌های من برات مفید بوده، می‌تونی از طریق آدرس‌های زیر بهم انرژی بدی: ❤️
+
+| شبکه | ارز | آدرس کیف پول |
+| :--- | :--- | :--- |
+| ![TRX](https://img.shields.io/badge/TRX-Tron-red?style=flat-square) | **TRX (TRC20)** | `TNTtpgzXhfbqSzWUvQ9vUbmMbRW6jmq92z` |
+| ![TON](https://img.shields.io/badge/TON-Tonkeeper-blue?style=flat-square) | **TON** | `UQCKw5EcIGHYObe2p8M9mk2xwpeokpmwzQyjIxPeiHWrXCvv` |
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Milad-Noori&theme=tokyonight" alt="Streak Stats" />
+</p>
+
 
 <p align="center">
   <!-- Top Languages -->
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milad-noori&layout=compact&theme=dracula&hide_border=true" height="140" />
-</p>
-
-
----
-
-
-## 📈 Contribution Activity
-
-<p align="center">
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=milad-noori&theme=react-dark&hide_border=true&color=ff7518&line=ffffff&point=ffcc00" />
-</p>
-
 </p>
 
 
