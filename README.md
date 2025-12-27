@@ -39,8 +39,6 @@ Developing intelligent, data-driven systems with a strong focus on Machine Learn
 <p align="center">
   <details>
     <summary><b>📂 مشاهده جزئیات فعالیت‌ها (Details)</b></summary>
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=Milad-Noori&show_icons=true&theme=tokyonight" alt="Milad's Stats" />
   </details>
 </p>
 
