@@ -28,13 +28,7 @@ Developing intelligent, data-driven systems with a strong focus on Machine Learn
 ---
 
 <!-- ====================== GitHub Stats ====================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Milad-Noori/Milad-Noori/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Milad-Noori&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
-</p>
 
 <p align="center">
   <!-- Top Languages -->
