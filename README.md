@@ -42,15 +42,6 @@ Developing intelligent, data-driven systems with a strong focus on Machine Learn
   </details>
 </p>
 
----
-
-### ☕ حمایت از من (Donations)
-اگر پروژه‌های من برات مفید بوده، می‌تونی از طریق آدرس‌های زیر بهم انرژی بدی: ❤️
-
-| شبکه | ارز | آدرس کیف پول |
-| :--- | :--- | :--- |
-| ![TRX](https://img.shields.io/badge/TRX-Tron-red?style=flat-square) | **TRX (TRC20)** | `TNTtpgzXhfbqSzWUvQ9vUbmMbRW6jmq92z` |
-| ![TON](https://img.shields.io/badge/TON-Tonkeeper-blue?style=flat-square) | **TON** | `UQCKw5EcIGHYObe2p8M9mk2xwpeokpmwzQyjIxPeiHWrXCvv` |
 
 ---
 
