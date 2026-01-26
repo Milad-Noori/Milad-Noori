@@ -37,16 +37,6 @@ Developing intelligent, data-driven systems with a strong focus on Machine Learn
 </p>
 
 <p align="center">
-  <details>
-    <summary><b>📂 مشاهده جزئیات فعالیت‌ها (Details)</b></summary>
-  </details>
-</p>
-
-
----
-
-
-<p align="center">
   <!-- Top Languages -->
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milad-noori&layout=compact&theme=dracula&hide_border=true" height="140" />
