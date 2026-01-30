@@ -51,7 +51,7 @@ Developing intelligent, data-driven systems with a strong focus on Machine Learn
   <a href="https://stackoverflow.com/users/seyead_milad-nouri" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/miladnhosseini" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a>
+    <src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
