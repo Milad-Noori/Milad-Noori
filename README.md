@@ -1,7 +1,7 @@
 <h1 align="center">Milad Noori</h1>
 
 <h3 align="center">
-AI Engineer | Machine Learning & Computer Vision Enthusiast
+AI Engineer | Machine Learning | Computer Vision Enthusiast
 </h3>
 
 <p align="center">
@@ -9,7 +9,7 @@ AI Engineer | Machine Learning & Computer Vision Enthusiast
 </p>
 
 <p align="center">
-Developing intelligent, data-driven systems with a strong focus on Machine Learning, Deep Learning, and Robotics.
+Developing intelligent, data-driven systems with focus on Machine Learning, Deep Learning, and Robotics.
 </p>
 
 ---
