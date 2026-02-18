@@ -31,25 +31,7 @@ Developing intelligent, data-driven systems with focus on Machine Learning, Deep
 
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation: isolate" viewBox="0 0 495 195" width="495px" height="195px" direction="ltr">
-        <style>
-            @keyframes currstreak {
-                0% { font-size: 3px; opacity: 0.2; }
-                80% { font-size: 34px; opacity: 1; }
-                100% { font-size: 28px; opacity: 1; }
-            }
-            @keyframes fadein {
-                0% { opacity: 0; }
-                100% { opacity: 1; }
-            }
-        </style>
-        <defs>
-            <clipPath id="outer_rectangle">
-                <rect width="495" height="195" rx="4.5"/>
-            </clipPath>
-            <mask id="mask_out_ring_behind_fire">
-                <rect width="495" height="195" fill="white"/>
-                <ellipse id="mask-ellipse" cx="247.5" cy="32" rx="13" ry="18" fill="black"/>
-            </mask>
+      </svg>
             
     
 
