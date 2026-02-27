@@ -38,7 +38,7 @@ Developing intelligent, data-driven systems with focus on Machine Learning, Deep
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/milad-noori" target="_blank">
+  <a href="https://linkedin.com/in/milad-noori1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://kaggle.com/seyeadmiladnoori" target="_blank">
