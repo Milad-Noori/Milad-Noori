@@ -1,7 +1,7 @@
 <h1 align="center">Milad Noori</h1>
 
 <h3 align="center">
-AI Engineer | Machine Learning | Computer Vision Enthusiast
+AI Engineer |Deep Learning | Machine Learning | Computer Vision Enthusiast
 </h3>
 
 <p align="center">
