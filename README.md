@@ -1,4 +1,4 @@
-<h1 align="center">Milad Noori</h1>
+<h1 align="center">Milad</h1>
 
 <h3 align="center">
 AI Engineer |Deep Learning | Machine Learning | Computer Vision Enthusiast
