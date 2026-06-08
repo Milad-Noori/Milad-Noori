@@ -9,7 +9,7 @@ AI Engineer |Deep Learning | Machine Learning | Computer Vision Enthusiast
 </p>
 
 <p align="center">
-Developing intelligent, data-driven systems with focus on Machine Learning, Deep Learning, and Robotics.
+ focus on Machine Learning, Deep Learning, and Robotics in order to improve my practical skills, apply theoretical knowledge to real situations.
 </p>
 
 ---
